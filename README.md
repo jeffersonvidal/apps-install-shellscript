@@ -117,9 +117,9 @@
 
 <p align="center">
 
-  ![Screen1](https://github.com/jeffersonvidal/apps-install-shellscript/blob/master/screenshots/screen1.PNG?raw=true)
+  ![Screen1](https://github.com/jeffersonvidal/apps-install-shellscript/blob/master/screenshots/screen1.png?raw=true)
 
-  ![Screen2](https://github.com/jeffersonvidal/apps-install-shellscript/blob/master/screenshots/screen2.PNG?raw=true)
+  ![Screen2](https://github.com/jeffersonvidal/apps-install-shellscript/blob/master/screenshots/screen2.png?raw=true)
 
   ![Demonstration](https://github.com/jeffersonvidal/apps-install-shellscript/blob/master/screenshots/demo.gif?raw=true)
 
