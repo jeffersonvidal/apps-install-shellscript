@@ -108,10 +108,10 @@
 
 <p align="center">
 
-1 - In the terminal, go to the folder of the file AppsInstall.sh, type the command "chmod 777 AppsInstall.sh" and press the "Enter" key to give the file execution permission.
-2 - Then type "./AppsInstall.sh" and press the "Enter" key then the options menu will appear. 
-3 - Simply enter the number in front of each option to install the desired item.
-4 - To exit the script type "q" and press the "Enter" key.
+1-In the terminal, go to the folder of the file AppsInstall.sh, type the command "chmod 777 AppsInstall.sh" and press the "Enter" key to give the file execution permission.
+2-Then type "./AppsInstall.sh" and press the "Enter" key then the options menu will appear. 
+3-Simply enter the number in front of each option to install the desired item.
+4-To exit the script type "q" and press the "Enter" key.
 
 </p>
 
