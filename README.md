@@ -62,7 +62,7 @@
 
 - [x] System update;
 - [x] Build Essential;
-- [x] MySQL ?;
+- [x] MySQL;
 - [x] MySQL Workbench;
 - [x] PHP 7.2 + Apache2;
 - [x] Git;

@@ -9,7 +9,7 @@ echo "	Atualizar Sistema - 1:"
 echo "	Instalar Pacotes Essenciais - 2:"
 echo "	Instalar MySQL Server - 3:"
 echo "	Instalar MySQL Workbench - 4:"
-echo "	Instalar PHP7.0 + Apache2 - 5:"
+echo "	Instalar PHP7.3 + Apache2 - 5:"
 echo "	Instalar Wine 1.7 - 6:"
 echo "	Instalar Gimp - 7:"
 echo "	Instalar Simple Screen Recorder (Grava Video) - 8:"
@@ -49,12 +49,11 @@ sudo apt update ;;
 
 4) sudo apt install mysql-workbench mysql-workbench-data ;;
 
-5) sudo apt update;
-sudo apt update && sudo apt -y upgrade && sudo apt -y dist-upgrade;
-sudo apt-get install software-properties-common curl
-sudo apt install php7.0-mysql;
-sudo apt install curl libcurl3 libcurl3-dev php7.0-curl;
-sudo apt install php7.0-gd;
+5)  sudo apt install apache2;
+sudo apt install software-properties-common;
+sudo add-apt-repository ppa:ondrej/php;
+sudo apt install php7.3;
+sudo apt install php-pear php7.3-curl php7.3-dev php7.3-gd php7.3-mbstring php7.3-zip php7.3-mysql php7.3-xml;
 sudo apt update;
 service apache2 reload ;;
 
