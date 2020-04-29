@@ -132,4 +132,4 @@ This project is under MIT. See at here [LICENSE](/LICENSE) for more informations
 
 ---
 
-Made by :blue_heart: [Jefferson Vidal](https://github.com/jeffersonvidal)
+Made with ♥ by [Jefferson Vidal](https://github.com/jeffersonvidal)
